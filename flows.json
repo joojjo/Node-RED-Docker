@@ -1,4 +1,2 @@
-[{"id":"3af82246.3634ae","type":"tab","label":"Flow 1","disabled":true,"info":""}]
- contextStorage: {
-    	storeName    : { module: "storeModule" }
-    },
+[{"id":"3af82246.3634ae","type":"tab","label":"Flow 1","disabled":false,"info":""}]
+ 
